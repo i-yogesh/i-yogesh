@@ -68,7 +68,7 @@
 [visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=i-yogesh
 [github-stars-shield]: https://img.shields.io/github/stars/i-yogesh?style=social
 [github-stats]:https://githubreadmestats.vercel.app/apiusername=i-yogesh&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-stats-url]: https://leetcard.jacoblin.cool/i-yogesh?theme=dark&font=Roboto&ext=heatmap
+[leetcode-stats-url]: https://leetcard.jacoblin.cool/the_marvelous_one?theme=dark&font=Roboto&ext=heatmap
 [gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=marvelous_one
 [leetcode-url]: https://leetcode.com/the_marvelous_one
 [gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one
@@ -80,6 +80,8 @@
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/the_marvelous_one
 [gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one
+[hackerrank-shield]: https://img.shields.io/badge/-ASHISH%20JOSHI-black?style=flat&logo=hackerrank
+[hackerrank-url]: https://www.hackerrank.com/AJTITAN
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
 [ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
