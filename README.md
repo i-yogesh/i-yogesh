@@ -1,30 +1,98 @@
-<h1 align="center">Hi 👋, I'm Yogesh Mishra</h1>
-<h3 align="center">A passionate frontend developer and leetcoder/cp programmer from India</h3>
+<h1 align="center">Hi , I'm Ashish Joshi(AJTITAN) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+Full+Stack+Developer+And+CPP+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
+</p>
+<hr/>
 
-- 🔭 I’m currently working on **[Will update soon]**
+## 💫 About Me:
+✨ Passionate about learning new technologies<br>🌱 Currently learning the <b>MERN</b> stack<br><!-- 🔭 Working on a <b>Subscription based eCommerce Website</b><br> -->👯 Looking forward to collaborate on projects<br>⚡ Fun fact **I study for Me and Me alone**<br>
 
-- 🌱 I’m currently learning **ReactJs, Backend**
+#<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
+<!--![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)--> 
+![C++](https://img.shields.io/badge/C++-5C2D91?style=for-the-badge&logo=c++&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+<!-- ### <img src="https://media.giphy.com/media/swhRkVYLJDrCE/giphy.gif" width = "40> Language Stats
+ <div align="center">
+  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN)](https://github.com/AJTITAN/github-readme-stats)</a>
+</div> -->
+### <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> Streak stats
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN&layout=compact&show_icon=true&theme=algolia" alt="AJTITAN-langs"/>
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=TangoBeee&layout=compact&show_icon=true&theme=algolia" alt="TangoBee-stats"/> -->
+</div>
+<div align="center">
 
-- 👯 I’m looking to collaborate on **any frontend project**
+  <a>![Github streak][github-streak]</a>
 
-- 📫 How to reach me **marvelousyogesh@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marvelous-one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvelous-one" height="30" width="40" /></a>
-<a href="https://instagram.com/i.yogesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.yogesh_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/i_yogesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_yogesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/marvelous_one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marvelous_one" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/marvelous_yogesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="marvelous_yogesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/marvelous_one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marvelous_one" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/thespeedyqueeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thespeedyqueeen" height="30" width="40" /></a>
+### <img src="https://media2.giphy.com/media/CCXzSZGI8TsIvYZjWo/200w.webp" width="40"> Trophies stats
+<div align="center">
+
+  <a>![Github trophy][github-trophy]</a>
+
+</div>
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />  Coding Profiles  
+<div align="center">
+    
+  <a href="">[![GFG-Stats][gfg-stats-url]][gfg-url]</a>
+  
+  <a href="">[![Leetcode-Stats][leetcode-stats-url]][leetcode-url]</a>
+
+</div>
+
+
+## 🙋‍♂️ Let's Connect
+[![Gmail][gmail-shield]][gmail-url]
+[![Linkedin][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
+[![LeetCode][leetcode-shield]][leetcode-url]
+[![Hackerrank][hackerrank-shield]][hackerrank-url]
+[![GFG][gfg-shield]][gfg-url]
+<br>
+
+<div align="center">
+
+  <a href="https://github.com/i-yogesh">![Footer quote][quote-url]</a>
+
+</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/i-yogesh/count.svg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-yogesh&show_icons=true&locale=en&layout=compact" alt="i-yogesh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-yogesh&show_icons=true&locale=en" alt="i-yogesh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-yogesh&" alt="i-yogesh" /></p>
+<!-- MARKDOWN LINKS & IMAGES -->
+[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=i-yogesh
+[github-stars-shield]: https://img.shields.io/github/stars/i-yogesh?style=social
+[github-stats]:https://githubreadmestats.vercel.app/apiusername=i-yogesh&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
+[leetcode-stats-url]: https://leetcard.jacoblin.cool/i-yogesh?theme=dark&font=Roboto&ext=heatmap
+[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=marvelous_one
+[leetcode-url]: https://leetcode.com/the_marvelous_one
+[gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one
+[github-followers-shield]: https://img.shields.io/github/followers/i-yogesh?style=social
+[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=i-yogesh&theme=algolia
+[github-streak]: https://streak-stats.demolab.com?user=i-yogesh&theme=algolia
+[github-trophy]: https://github-profile-trophy.vercel.app/?username=i-yogesh&theme=algolia
+[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/the_marvelous_one/solved?color=orange&logo=leetcode
+[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
+[leetcode-url]: https://leetcode.com/the_marvelous_one
+[gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one
+[ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
+[ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
+[ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
+[ieee-paper-url]: https://ieeexplore.ieee.org/document/9807998
+[quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+[gmail-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-grey?style=flat&logo=gmail
+[gmail-url]: mailto:marvelousyogesh@gmail.com
+[linkedin-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-blue?style=flat&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/marvelous-one/
+[github-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-black?style=flat&logo=github
+[linkedin-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-blue?style=flat&logo=linkedin&logoColor=white
+[github-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-black?style=flat&logo=github
+[quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
+[leetcode-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-grey?style=flat&logo=leetcode
+[gfg-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
+[github-url]: https://github.com/i-yogesh
