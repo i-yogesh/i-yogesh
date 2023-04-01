@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Yogesh Mishra(Marvelous One) <img src="https://c4.wallpaperflare.com/wallpaper/56/315/702/anime-naruto-madara-uchiha-sharingan-naruto-wallpaper-preview.jpg" width="35"></h1>
+<h1 align="center">Hi , I'm Yogesh Mishra(Marvelous One) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+Full+Stack+Developer+And+CPP+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
 </p>
@@ -80,7 +80,7 @@
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/the_marvelous_one
 [gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one
-[hackerrank-shield]: https://img.shields.io/badge/-ASHISH%20JOSHI-black?style=flat&logo=hackerrank
+[hackerrank-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-black?style=flat&logo=hackerrank
 [hackerrank-url]: https://www.hackerrank.com/AJTITAN
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
