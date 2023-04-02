@@ -49,7 +49,7 @@
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 [![LeetCode][leetcode-shield]][leetcode-url]
-[![Hackerrank][hackerrank-shield]][hackerrank-url]
+<!-- [![Hackerrank][hackerrank-shield]][hackerrank-url] -->
 [![GFG][gfg-shield]][gfg-url]
 <br>
 
@@ -80,8 +80,8 @@
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/the_marvelous_one
 [gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one
-[hackerrank-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-black?style=flat&logo=hackerrank
-[hackerrank-url]: https://www.hackerrank.com/AJTITAN
+<!-- [hackerrank-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-black?style=flat&logo=hackerrank -->
+<!-- [hackerrank-url]: https://www.hackerrank.com/AJTITAN -->
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
 [ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
