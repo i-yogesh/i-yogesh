@@ -50,7 +50,7 @@
 [![Github][github-shield]][github-url]
 [![LeetCode][leetcode-shield]][leetcode-url]
 <!-- [![Hackerrank][hackerrank-shield]][hackerrank-url] -->
-[![GFG][gfg-shield]][gfg-url]
+<!-- [![GFG][gfg-shield]][gfg-url] -->
 <br>
 
 <div align="center">
@@ -71,7 +71,7 @@
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/the_marvelous_one?theme=dark&font=Roboto&ext=heatmap
 [gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=marvelous_one
 [leetcode-url]: https://leetcode.com/the_marvelous_one
-[gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one
+<!-- [gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one -->
 [github-followers-shield]: https://img.shields.io/github/followers/i-yogesh?style=social
 [github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=i-yogesh&theme=algolia
 [github-streak]: https://streak-stats.demolab.com?user=i-yogesh&theme=algolia
@@ -79,7 +79,7 @@
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/the_marvelous_one/solved?color=orange&logo=leetcode
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/the_marvelous_one
-[gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one
+<!-- [gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one -->
 <!-- [hackerrank-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-black?style=flat&logo=hackerrank -->
 <!-- [hackerrank-url]: https://www.hackerrank.com/AJTITAN -->
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
