@@ -37,9 +37,9 @@
 
 ### <img src="https://media2.giphy.com/media/CCXzSZGI8TsIvYZjWo/200w.webp" width="40"> Trophies stats
 <div align="center">
-  <a href="https://github.com/i-yogesh">
-    ![Github Trophy](https://github-profile-trophy.vercel.app/?username=i-yogesh&theme=algolia&no-issues=true&no-pull-requests=true&no-reviews=true&no-stars=true)
-  </a>
+
+  <a>![Github trophy][github-trophy]</a>
+
 </div>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />  Coding Profiles  
