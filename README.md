@@ -12,6 +12,10 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-5C2D91?style=for-the-badge&logo=c++&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 <!-- ### <img src="https://media.giphy.com/media/swhRkVYLJDrCE/giphy.gif" width = "40> Language Stats
  <div align="center">
   <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN)](https://github.com/AJTITAN/github-readme-stats)</a>
@@ -33,9 +37,9 @@
 
 ### <img src="https://media2.giphy.com/media/CCXzSZGI8TsIvYZjWo/200w.webp" width="40"> Trophies stats
 <div align="center">
-
-  <a>![Github trophy][github-trophy]</a>
-
+  <a href="https://github.com/i-yogesh">
+    ![Github Trophy](https://github-profile-trophy.vercel.app/?username=i-yogesh&theme=algolia&no-issues=true&no-pull-requests=true&no-reviews=true&no-stars=true)
+  </a>
 </div>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />  Coding Profiles  
@@ -81,7 +85,7 @@
 [github-streak]: https://streak-stats.demolab.com?user=i-yogesh&theme=algolia
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=i-yogesh&theme=algolia
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/the_marvelous_one/solved?color=orange&logo=leetcode
-[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
+<!-- [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat -->
 [leetcode-url]: https://leetcode.com/the_marvelous_one
 [gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one
 <!-- [hackerrank-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-black?style=flat&logo=hackerrank -->
