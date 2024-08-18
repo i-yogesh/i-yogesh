@@ -85,7 +85,7 @@
 [github-streak]: https://streak-stats.demolab.com?user=i-yogesh&theme=algolia
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=i-yogesh&theme=algolia
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/the_marvelous_one/solved?color=orange&logo=leetcode
-<!-- [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat -->
+[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/the_marvelous_one
 [gfg-url]: https://auth.geeksforgeeks.org/user/marvelous_one
 <!-- [hackerrank-shield]: https://img.shields.io/badge/-Yogesh%20Mishra-black?style=flat&logo=hackerrank -->
